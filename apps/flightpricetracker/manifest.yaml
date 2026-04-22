@@ -1,0 +1,7 @@
+id: flight-price-tracker
+name: Flight Price Tracker
+summary: Track Google Flights
+desc: Finds the lowest real-time price between two airports using Google Flights (requires a free SerpApi key).
+author: motoben
+fileName: flight_price_tracker.star
+packageName: flightpricetracker
